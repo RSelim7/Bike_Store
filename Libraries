@@ -1,3 +1,4 @@
+sudo pip install matplotlib
 pip install seaborn
 pip install matpoltlib
 import streamlit as st
